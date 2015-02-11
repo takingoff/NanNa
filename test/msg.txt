@@ -1,1 +1,3 @@
 this message from virtual Linux
+
+add some new msg
